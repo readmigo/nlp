@@ -1,0 +1,15 @@
+# spaCy NLP Service Dependencies
+
+# Web framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+
+# NLP
+spacy==3.7.2
+
+# Sentence Embeddings (multilingual)
+sentence-transformers==2.2.2
+
+# Note: After installing, download the model:
+# python -m spacy download en_core_web_lg
