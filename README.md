@@ -1,5 +1,7 @@
 # Readmigo NLP
 
+[![CI](https://github.com/readmigo/nlp/actions/workflows/ci.yml/badge.svg)](https://github.com/readmigo/nlp/actions/workflows/ci.yml)
+
 Natural Language Processing service for Readmigo.
 
 ## Tech Stack
